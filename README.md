@@ -11,7 +11,7 @@ A simple password generator built with React and Vite.
 
 ## Screenshot
 
-![Password Generator Screenshot](./pg.jpg) <!-- Make sure your image is named `screenshot.png` and placed in the root folder -->
+![Password Generator Screenshot](./pg.JPG) <!-- Make sure your image is named `screenshot.png` and placed in the root folder -->
 
 ## Tech Stack
 
